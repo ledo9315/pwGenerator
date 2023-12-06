@@ -28,4 +28,8 @@ To use this tool locally, follow these steps:
 ## Usage
 Visit the `index.html` page and choose your desired password criteria. Click the button to generate a random password.
 
+---
+
+Developed with ☕ and ❤️
+
 
